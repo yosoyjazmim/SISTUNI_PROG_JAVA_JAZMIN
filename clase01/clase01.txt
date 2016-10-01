@@ -5,3 +5,6 @@
 -Ejemplo de Programacion orientada al servicio
 -Clases y objetos
 -Miembros de clase 
+
+git config --global user.email "jazminvivian_19@hotmail.com"
+git config --global user.name "Yosoyjazmin"
